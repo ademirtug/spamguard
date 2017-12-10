@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spamguard</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_keywords">Spam Kelimeler</string>
+    <string name="title_trash">Çöp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
